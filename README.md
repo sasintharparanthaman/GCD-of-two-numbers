@@ -32,7 +32,9 @@ def gcd():
 ```
 
 ## Output:
-![Alt text](<Screenshot 2023-12-04 112324.png>)
+
+![Screenshot 2023-12-04 112324](https://github.com/sasintharparanthaman/GCD-of-two-numbers/assets/145743219/67d3e9be-77ff-4e4d-bc34-fda1281069e6)
+
 
 
 ## Result:
